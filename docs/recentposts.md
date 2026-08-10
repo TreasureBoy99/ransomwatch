@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-10 | [`City of Beacon`](https://google.com/search?q=City+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`TECHVENTURES BANK S.A.`](https://google.com/search?q=TECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-16 | [`NF Stroth & Associates`](https://google.com/search?q=NF+Stroth+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-16 | [`Jasper Products`](https://google.com/search?q=Jasper+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-04 | [`soundtransit.org`](https://google.com/search?q=soundtransit.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-05-03 | [`ruizre.es`](https://google.com/search?q=ruizre.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-05-03 | [`iycsa.com.co`](https://google.com/search?q=iycsa.com.co) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-05-03 | [`edisoft.es`](https://google.com/search?q=edisoft.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
