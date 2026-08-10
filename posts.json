@@ -80383,5 +80383,10 @@
         "post_title": "PCL Holding",
         "group_name": "ransomhouse",
         "discovered": "2026-08-10 15:41:40.211157"
+    },
+    {
+        "post_title": "[DISCLOSED]Nichirei",
+        "group_name": "ransomhouse",
+        "discovered": "2026-08-10 17:33:31.991582"
     }
 ]
