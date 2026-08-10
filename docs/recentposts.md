@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-10 | [`City of McMinnville OR`](https://google.com/search?q=City+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`Alya Construtora`](https://google.com/search?q=Alya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`City of Beacon`](https://google.com/search?q=City+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`TECHVENTURES BANK S.A.`](https://google.com/search?q=TECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-04 | [`CabinC.com`](https://google.com/search?q=CabinC.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-04 | [`valedolobo.com`](https://google.com/search?q=valedolobo.com) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-05-04 | [`soundtransit.org`](https://google.com/search?q=soundtransit.org) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-05-03 | [`ruizre.es`](https://google.com/search?q=ruizre.es) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
