@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-11 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Star Energy Geothermal Salak`](https://google.com/search?q=Star+Energy+Geothermal+Salak) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Ma Pak Leung Company Limited`](https://google.com/search?q=Ma+Pak+Leung+Company+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Trybus`](https://google.com/search?q=Trybus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Technical Die-Casting`](https://google.com/search?q=Technical+Die-Casting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-06 | [`Sugar Lake Lodge`](https://google.com/search?q=Sugar+Lake+Lodge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-06 | [`Rand Technology`](https://google.com/search?q=Rand+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
