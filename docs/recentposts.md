@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-11 | [`Transaction Packing Inc`](https://google.com/search?q=Transaction+Packing+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Winnitex (Americas) Limited`](https://google.com/search?q=Winnitex+%28Americas%29+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Star Energy Geothermal Salak`](https://google.com/search?q=Star+Energy+Geothermal+Salak) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`ehlers-inc.com`](https://google.com/search?q=ehlers-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-06 | [`Commune de Jemeppe-sur-Sambre`](https://google.com/search?q=Commune+de+Jemeppe-sur-Sambre) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-06 | [`Trybus`](https://google.com/search?q=Trybus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-06 | [`Technical Die-Casting`](https://google.com/search?q=Technical+Die-Casting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
