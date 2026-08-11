@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-11 | [`Bonacio`](https://google.com/search?q=Bonacio) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`[DISCLOSED]Fidelity Services Group`](https://google.com/search?q=%5BDISCLOSED%5DFidelity+Services+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`Megawork`](https://google.com/search?q=Megawork) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`[DISCLOSED]City of McMinnville OR`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-06 | [`Breen Construction Services`](https://google.com/search?q=Breen+Construction+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`Alberta Construction Safety Association`](https://google.com/search?q=Alberta+Construction+Safety+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-05 | [`ATI Systems`](https://google.com/search?q=ATI+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-05 | [`pbw-`](https://google.com/search?q=pbw-) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
