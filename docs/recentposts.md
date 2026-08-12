@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-12 | [`GCATS Investments`](https://google.com/search?q=GCATS+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`[DISCLOSED]City of Beacon`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-08 | [`UniTrak`](https://google.com/search?q=UniTrak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-08 | [`vzlom7may.omg`](https://google.com/search?q=vzlom7may.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-07 | [`Amtech Software`](https://google.com/search?q=Amtech+Software) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-05-07 | [`LGM`](https://google.com/search?q=LGM) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
