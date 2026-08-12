@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-12 | [`Marconi Industrial Services`](https://google.com/search?q=Marconi+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`MIE Solutions`](https://google.com/search?q=MIE+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`GCATS Investments`](https://google.com/search?q=GCATS+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`[DISCLOSED]City of Beacon`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-09 | [`hennessyfunds.com`](https://google.com/search?q=hennessyfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-09 | [`Mountain View Mushrooms`](https://google.com/search?q=Mountain+View+Mushrooms) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-08 | [`UniTrak`](https://google.com/search?q=UniTrak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-08 | [`vzlom7may.omg`](https://google.com/search?q=vzlom7may.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
