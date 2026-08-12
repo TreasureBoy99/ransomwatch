@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-12 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2026-08-12 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`[DISCLOSED]Accelerated Services`](https://google.com/search?q=%5BDISCLOSED%5DAccelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`[DISCLOSED]Bioptik Technology`](https://google.com/search?q=%5BDISCLOSED%5DBioptik+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-07 | [`Transport Lutztulln`](https://google.com/search?q=Transport+Lutztulln) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-07 | [`GPF Lewis`](https://google.com/search?q=GPF+Lewis) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-05-06 | [`Mediprobe Research`](https://google.com/search?q=Mediprobe+Research) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
