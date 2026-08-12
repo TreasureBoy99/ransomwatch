@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-12 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2026-08-12 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-07 | [`Amtech Software`](https://google.com/search?q=Amtech+Software) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-07 | [`LGM`](https://google.com/search?q=LGM) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-05-07 | [`Transport Lutztulln`](https://google.com/search?q=Transport+Lutztulln) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
-| 2025-05-07 | [`Sioux Chief`](https://google.com/search?q=Sioux+Chief) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
