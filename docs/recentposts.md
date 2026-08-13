@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-13 | [`Sigma Plastics Group`](https://google.com/search?q=Sigma+Plastics+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-13 | [`Rilpa Enterprises`](https://google.com/search?q=Rilpa+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Preferred Financial Group`](https://google.com/search?q=Preferred+Financial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-10 | [`Verrex`](https://google.com/search?q=Verrex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`Sweet Shop USA`](https://google.com/search?q=Sweet+Shop+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`Gistic Research`](https://google.com/search?q=Gistic+Research) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-09 | [`EMX Enterprises`](https://google.com/search?q=EMX+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
