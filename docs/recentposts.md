@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-14 | [`Yourway Transportation`](https://google.com/search?q=Yourway+Transportation) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-08-14 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-14 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-13 | [`optimumdesign.com`](https://google.com/search?q=optimumdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-11 | [`stitaly.it`](https://google.com/search?q=stitaly.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.harrissteelco.com`](https://google.com/search?q=www.harrissteelco.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`ossman.co.uk`](https://google.com/search?q=ossman.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`kraftkisarna.se`](https://google.com/search?q=kraftkisarna.se) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
