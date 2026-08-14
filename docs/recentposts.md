@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-14 | [`Landeshauptstadt Stuttgart`](https://google.com/search?q=Landeshauptstadt+Stuttgart) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-14 | [`IDS Group`](https://google.com/search?q=IDS+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-14 | [`Lawson Roofing`](https://google.com/search?q=Lawson+Roofing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-14 | [`Pierce Township`](https://google.com/search?q=Pierce+Township) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-12 | [`www.condista.com`](https://google.com/search?q=www.condista.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`iacc.holdings`](https://google.com/search?q=iacc.holdings) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.texlaenergy.com`](https://google.com/search?q=www.texlaenergy.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-11 | [`www.precisiontextiles-usa.com`](https://google.com/search?q=www.precisiontextiles-usa.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
