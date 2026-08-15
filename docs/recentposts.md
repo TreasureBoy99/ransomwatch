@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-15 | [`Cytek Biosciences`](https://google.com/search?q=Cytek+Biosciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`MACT Health Board`](https://google.com/search?q=MACT+Health+Board) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Elabs`](https://google.com/search?q=Elabs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Lakeside Union School District`](https://google.com/search?q=Lakeside+Union+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-13 | [`Operative`](https://google.com/search?q=Operative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-12 | [`Just Concrete & Masonry`](https://google.com/search?q=Just+Concrete+%26+Masonry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-12 | [`EIZO Rugged Solutions`](https://google.com/search?q=EIZO+Rugged+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
