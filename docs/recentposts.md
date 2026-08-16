@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-16 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Bo Beuckman Ford`](https://google.com/search?q=Bo+Beuckman+Ford) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`SODISE`](https://google.com/search?q=SODISE) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Grafton Technologies`](https://google.com/search?q=Grafton+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Sao Camilo Cachoeiro de Itapemirim`](https://google.com/search?q=Sao+Camilo+Cachoeiro+de+Itapemirim) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
