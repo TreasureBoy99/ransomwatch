@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-16 | [`SODISE`](https://google.com/search?q=SODISE) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Kane's Furniture`](https://google.com/search?q=Kane%27s+Furniture) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Cleveland County Sheriff's Office`](https://google.com/search?q=Cleveland+County+Sheriff%27s+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Harbour Town Doctors`](https://google.com/search?q=Harbour+Town+Doctors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-14 | [`Redirecting...`](https://google.com/search?q=Redirecting...) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2025-05-13 | [`Dishaka`](https://google.com/search?q=Dishaka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-13 | [`Looper Goodwine`](https://google.com/search?q=Looper+Goodwine) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
