@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-16 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Charles Leonard Steel Services`](https://google.com/search?q=Charles+Leonard+Steel+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Jet-care International`](https://google.com/search?q=Jet-care+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Cytek Biosciences`](https://google.com/search?q=Cytek+Biosciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-13 | [`www.colemanmaterials.com`](https://google.com/search?q=www.colemanmaterials.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`architekturbuero-heller.de`](https://google.com/search?q=architekturbuero-heller.de) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-13 | [`thaonlesvosges.fr`](https://google.com/search?q=thaonlesvosges.fr) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2025-05-13 | [`Overhead Door of Nova Scotia`](https://google.com/search?q=Overhead+Door+of+Nova+Scotia) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
