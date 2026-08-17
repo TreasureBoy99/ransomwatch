@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-17 | [`Bellflower Unified School District`](https://google.com/search?q=Bellflower+Unified+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Spindletop Center`](https://google.com/search?q=Spindletop+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Automated Logistics Systems`](https://google.com/search?q=Automated+Logistics+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-17 | [`nissi-beach.com`](https://google.com/search?q=nissi-beach.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Carney Badley Spellman`](https://google.com/search?q=Carney+Badley+Spellman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-16 | [`finanzconsult-immobilien.de`](https://google.com/search?q=finanzconsult-immobilien.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
