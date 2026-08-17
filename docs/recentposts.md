@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-17 | [`Automated Logistics Systems`](https://google.com/search?q=Automated+Logistics+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`KISS FM`](https://google.com/search?q=KISS+FM) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Invacare`](https://google.com/search?q=Invacare) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`ccrcda.org`](https://google.com/search?q=ccrcda.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Triple Jump`](https://google.com/search?q=Triple+Jump) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-05-16 | [`south african airways (flysaa.com)`](https://google.com/search?q=south+african+airways+%28flysaa.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
