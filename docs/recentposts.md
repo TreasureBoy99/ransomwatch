@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Coltrane Systems`](https://google.com/search?q=Coltrane+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-18 | [`[DISCLOSED]Alya Construtora`](https://google.com/search?q=%5BDISCLOSED%5DAlya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-18 | [`Furuno Electric`](https://google.com/search?q=Furuno+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-18 | [`Colegio de la Compania de Maria Vigo`](https://google.com/search?q=Colegio+de+la+Compania+de+Maria+Vigo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-18 | [`Termolar`](https://google.com/search?q=Termolar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-18 | [`Fong Shann Printing Philippines`](https://google.com/search?q=Fong+Shann+Printing+Philippines) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
