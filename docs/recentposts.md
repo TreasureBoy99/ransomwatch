@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-18 | [`JASCO Applied Sciences`](https://google.com/search?q=JASCO+Applied+Sciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Coltrane Systems`](https://google.com/search?q=Coltrane+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-18 | [`[DISCLOSED]Alya Construtora`](https://google.com/search?q=%5BDISCLOSED%5DAlya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-18 | [`Colegio de la Compania de Maria Vigo`](https://google.com/search?q=Colegio+de+la+Compania+de+Maria+Vigo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-18 | [`Termolar`](https://google.com/search?q=Termolar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
