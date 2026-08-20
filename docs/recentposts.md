@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-20 | [`CUSTOMSIGN`](https://google.com/search?q=CUSTOMSIGN) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`BANGKOKCABLE`](https://google.com/search?q=BANGKOKCABLE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-25 | [` Seneca Gaming &amp; Entertainment `](https://google.com/search?q=+Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-05-24 | [`Coweta County School System `](https://google.com/search?q=Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-05-24 | [`T******p.ae`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2Ap.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-05-24 | [`Vernon Milling`](https://google.com/search?q=Vernon+Milling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
