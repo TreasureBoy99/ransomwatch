@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Be Media`](https://google.com/search?q=Be+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Foresee Pharmaceuticals`](https://google.com/search?q=Foresee+Pharmaceuticals) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`Antea Luce`](https://google.com/search?q=Antea+Luce) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-26 | [`allstarflooring.com`](https://google.com/search?q=allstarflooring.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-25 | [`oxparkrec.org`](https://google.com/search?q=oxparkrec.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-25 | [`D****v.org`](https://google.com/search?q=D%2A%2A%2A%2Av.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
