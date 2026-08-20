@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-20 | [`Otter Tail County, Minnesota`](https://google.com/search?q=Otter+Tail+County%2C+Minnesota) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Be Media`](https://google.com/search?q=Be+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Foresee Pharmaceuticals`](https://google.com/search?q=Foresee+Pharmaceuticals) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`Carrera Chevrolet`](https://google.com/search?q=Carrera+Chevrolet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-26 | [`Antea Luce`](https://google.com/search?q=Antea+Luce) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-26 | [`allstarflooring.com`](https://google.com/search?q=allstarflooring.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2025-05-25 | [`oxparkrec.org`](https://google.com/search?q=oxparkrec.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
