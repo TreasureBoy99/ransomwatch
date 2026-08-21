@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-21 | [`cambrialawfirm.com`](https://google.com/search?q=cambrialawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`UNIPLASTICS.COM`](https://google.com/search?q=UNIPLASTICS.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`SpearFin Ltd`](https://google.com/search?q=SpearFin+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-27 | [`Corantioquia`](https://google.com/search?q=Corantioquia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`WAT Supplies`](https://google.com/search?q=WAT+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-26 | [`Media Links`](https://google.com/search?q=Media+Links) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-26 | [`Frederick's Machine & Tool Shop`](https://google.com/search?q=Frederick%27s+Machine+%26+Tool+Shop) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
