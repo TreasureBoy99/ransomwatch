@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-21 | [`Fairview Dental Group`](https://google.com/search?q=Fairview+Dental+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Coming soon`](https://google.com/search?q=Coming+soon) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Battle Creek Public Schools`](https://google.com/search?q=Battle+Creek+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-28 | [`Fujipoly  Ltd`](https://google.com/search?q=Fujipoly++Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-27 | [`Wrap & Send Services`](https://google.com/search?q=Wrap+%26+Send+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-05-27 | [`Eight8Ate Holdings, Inc`](https://google.com/search?q=Eight8Ate+Holdings%2C+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-05-27 | [`http://www.iptelecom.at`](https://google.com/search?q=http%3A%2F%2Fwww.iptelecom.at) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
