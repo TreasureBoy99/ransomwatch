@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-21 | [`SpearFin Ltd`](https://google.com/search?q=SpearFin+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Otter Tail County, Minnesota`](https://google.com/search?q=Otter+Tail+County%2C+Minnesota) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`Media Links`](https://google.com/search?q=Media+Links) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-26 | [`Frederick's Machine & Tool Shop`](https://google.com/search?q=Frederick%27s+Machine+%26+Tool+Shop) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-26 | [`Carrera Chevrolet`](https://google.com/search?q=Carrera+Chevrolet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-05-26 | [`Antea Luce`](https://google.com/search?q=Antea+Luce) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
