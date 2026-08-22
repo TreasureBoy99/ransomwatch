@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-22 | [`https://www.libertydentaltown.com`](https://google.com/search?q=https%3A%2F%2Fwww.libertydentaltown.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`www.mercantetubos.com.br`](https://google.com/search?q=www.mercantetubos.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`BEDC.COM.AU`](https://google.com/search?q=BEDC.COM.AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-22 | [`www.myriversidedentaloffice.com`](https://google.com/search?q=www.myriversidedentaloffice.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`STANDBYTE`](https://google.com/search?q=STANDBYTE) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-05-30 | [`Acorn Sales`](https://google.com/search?q=Acorn+Sales) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
