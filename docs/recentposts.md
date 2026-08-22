@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-22 | [`https://www.unterkofler.info`](https://google.com/search?q=https%3A%2F%2Fwww.unterkofler.info) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`www.automotiveml.com`](https://google.com/search?q=www.automotiveml.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`CRI Electric`](https://google.com/search?q=CRI+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-22 | [`https://www.bew.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.bew.co.th) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-05-30 | [`M&amp;H Electric Fabricators`](https://google.com/search?q=M%26amp%3BH+Electric+Fabricators) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-05-30 | [`Jordan Drug`](https://google.com/search?q=Jordan+Drug) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-05-29 | [`http://www.innsofaurora.com`](https://google.com/search?q=http%3A%2F%2Fwww.innsofaurora.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
