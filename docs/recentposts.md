@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-22 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`ssf-int.com  ssf-ing.de`](https://google.com/search?q=ssf-int.com++ssf-ing.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`nyklawfirm.com nyk.ae`](https://google.com/search?q=nyklawfirm.com+nyk.ae) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`diabetesandmetabolism.com`](https://google.com/search?q=diabetesandmetabolism.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-29 | [`http://metromont.com`](https://google.com/search?q=http%3A%2F%2Fmetromont.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-05-29 | [`Mulia Raya`](https://google.com/search?q=Mulia+Raya) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-05-28 | [`KDV Label`](https://google.com/search?q=KDV+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-28 | [`Eliel Cycling`](https://google.com/search?q=Eliel+Cycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
