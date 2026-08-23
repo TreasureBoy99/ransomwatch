@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-23 | [`Basso Fedele &amp; Figli S.r.l. (Olio Basso)    /     Villa Raiano`](https://google.com/search?q=Basso+Fedele+%26amp%3B+Figli+S.r.l.+%28Olio+Basso%29++++%2F+++++Villa+Raiano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`BiesSse Group`](https://google.com/search?q=BiesSse+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`SEARS (Grupo Sanborns)`](https://google.com/search?q=SEARS+%28Grupo+Sanborns%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`holzmarkt chemnitz`](https://google.com/search?q=holzmarkt+chemnitz) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
