@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-24 | [`Gerencial`](https://google.com/search?q=Gerencial) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Chebib Control`](https://google.com/search?q=Chebib+Control) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Salters propane`](https://google.com/search?q=Salters+propane) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Blenheim`](https://google.com/search?q=Blenheim) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`Ebac`](https://google.com/search?q=Ebac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-05 | [`A*****e.gov.ae`](https://google.com/search?q=A%2A%2A%2A%2A%2Ae.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-06-05 | [`iscamen`](https://google.com/search?q=iscamen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
