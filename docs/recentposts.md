@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-24 | [`PontoBR Sistemas`](https://google.com/search?q=PontoBR+Sistemas) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`Hitech Distribuzione Informatica S.r.l. (HTDI)`](https://google.com/search?q=Hitech+Distribuzione+Informatica+S.r.l.+%28HTDI%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`Elixi International SA`](https://google.com/search?q=Elixi+International+SA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`Basso Fedele &amp; Figli S.r.l. (Olio Basso)    /     Villa Raiano`](https://google.com/search?q=Basso+Fedele+%26amp%3B+Figli+S.r.l.+%28Olio+Basso%29++++%2F+++++Villa+Raiano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`Sandhills Medical Foundation`](https://google.com/search?q=Sandhills+Medical+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
