@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-24 | [`Cattani`](https://google.com/search?q=Cattani) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`ECOVACS`](https://google.com/search?q=ECOVACS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Gerencial`](https://google.com/search?q=Gerencial) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Chebib Control`](https://google.com/search?q=Chebib+Control) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-06 | [`MTTEXPERTISES.COM`](https://google.com/search?q=MTTEXPERTISES.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`Kittery Police Department`](https://google.com/search?q=Kittery+Police+Department) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-05 | [`Ebac`](https://google.com/search?q=Ebac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
