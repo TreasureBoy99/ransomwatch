@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-25 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`BASE SPA`](https://google.com/search?q=BASE+SPA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Filabé`](https://google.com/search?q=Filab%C3%A9) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-11 | [`AP Lettering`](https://google.com/search?q=AP+Lettering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-06-10 | [`Mount Rogers Community Services`](https://google.com/search?q=Mount+Rogers+Community+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-06-09 | [`Homestead Gardens`](https://google.com/search?q=Homestead+Gardens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
