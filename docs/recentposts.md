@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-25 | [`Ultimate Metals`](https://google.com/search?q=Ultimate+Metals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Brooklands of Mornington`](https://google.com/search?q=Brooklands+of+Mornington) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Bonheure`](https://google.com/search?q=Bonheure) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Aerodreams Hacked`](https://google.com/search?q=Aerodreams+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-12 | [`Ajmanre.gov.ae`](https://google.com/search?q=Ajmanre.gov.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-06-12 | [`alleray-labrouste`](https://google.com/search?q=alleray-labrouste) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
