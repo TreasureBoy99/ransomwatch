@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-26 | [`MEMSIC`](https://google.com/search?q=MEMSIC) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-26 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`algosaibi-gtb.com`](https://google.com/search?q=algosaibi-gtb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Project Partners`](https://google.com/search?q=Project+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`NPD Products`](https://google.com/search?q=NPD+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
