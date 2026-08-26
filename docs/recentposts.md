@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`Johnson &amp; Johnson Innovative Medicine`](https://google.com/search?q=Johnson+%26amp%3B+Johnson+Innovative+Medicine) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-26 | [`Asaniverko`](https://google.com/search?q=Asaniverko) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Ultimate Metals`](https://google.com/search?q=Ultimate+Metals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Y.G. New Idan Hacked`](https://google.com/search?q=Y.G.+New+Idan+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Israel’s fuel supply system Hacked`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-06-14 | [`Israel&#8217;s fuel supply system Hacked`](https://google.com/search?q=Israel%26%238217%3Bs+fuel+supply+system+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
