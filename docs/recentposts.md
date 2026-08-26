@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-26 | [`amtaar.com`](https://google.com/search?q=amtaar.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`alx-pc.com`](https://google.com/search?q=alx-pc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`MEMSIC`](https://google.com/search?q=MEMSIC) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-26 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-06-15 | [`Israel’s fuel supply system Data`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Data) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-15 | [`S&H Express`](https://google.com/search?q=S%26H+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-06-14 | [`Project Partners`](https://google.com/search?q=Project+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
