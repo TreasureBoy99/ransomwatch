@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-29 | [`PARTNERED HEALTH GROUP`](https://google.com/search?q=PARTNERED+HEALTH+GROUP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Berlin, Germany`](https://google.com/search?q=Berlin%2C+Germany) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-29 | [`Valley Health Team`](https://google.com/search?q=Valley+Health+Team) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-10 | [`[DISCLOSED]City of McMinnville OR`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`[DISCLOSED]Nichirei`](https://google.com/search?q=%5BDISCLOSED%5DNichirei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-10 | [`PCL Holding`](https://google.com/search?q=PCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-10 | [`City of McMinnville OR`](https://google.com/search?q=City+of+McMinnville+OR) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
