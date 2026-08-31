@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-31 | [`KRC Machine Tool Solutions`](https://google.com/search?q=KRC+Machine+Tool+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`Figgins Family Wine Estates`](https://google.com/search?q=Figgins+Family+Wine+Estates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-31 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-11 | [`[DISCLOSED]Karl Chevrolet`](https://google.com/search?q=%5BDISCLOSED%5DKarl+Chevrolet) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Ma Pak Leung Company Limited`](https://google.com/search?q=Ma+Pak+Leung+Company+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Aegle Aviation`](https://google.com/search?q=Aegle+Aviation) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-11 | [`Promepla`](https://google.com/search?q=Promepla) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
