@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-08-31 | [`centrum.sk`](https://google.com/search?q=centrum.sk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-31 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-30 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-30 | [`banak.com`](https://google.com/search?q=banak.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-11 | [`Aegle Aviation`](https://google.com/search?q=Aegle+Aviation) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Promepla`](https://google.com/search?q=Promepla) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`[DISCLOSED]Prince George County`](https://google.com/search?q=%5BDISCLOSED%5DPrince+George+County) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-11 | [`Bonacio`](https://google.com/search?q=Bonacio) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
