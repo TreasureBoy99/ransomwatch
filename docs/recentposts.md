@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-01 | [`Szechenyi Programiroda Nonprofit Kf`](https://google.com/search?q=Szechenyi+Programiroda+Nonprofit+Kf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-01 | [`Meteor Group`](https://google.com/search?q=Meteor+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-01 | [`REXT Holdings Co., Ltd.`](https://google.com/search?q=REXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-01 | [`MEQ`](https://google.com/search?q=MEQ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-11 | [`Transaction Packing Inc`](https://google.com/search?q=Transaction+Packing+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Winnitex (Americas) Limited`](https://google.com/search?q=Winnitex+%28Americas%29+Limited) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-11 | [`Jiangsu Zenergy Battery Technologies Group Co., Ltd.`](https://google.com/search?q=Jiangsu+Zenergy+Battery+Technologies+Group+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-11 | [`Star Energy Geothermal Salak`](https://google.com/search?q=Star+Energy+Geothermal+Salak) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
