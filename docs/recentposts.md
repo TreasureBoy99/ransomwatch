@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-02 | [`Asfaltos y Pavimentos S.A. (Asfalpasa)`](https://google.com/search?q=Asfaltos+y+Pavimentos+S.A.+%28Asfalpasa%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`[EVIDENCE]REXT Holdings Co., Ltd.`](https://google.com/search?q=%5BEVIDENCE%5DREXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-02 | [`Lansing Urgent Care`](https://google.com/search?q=Lansing+Urgent+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`New Century Ophthalmology Group`](https://google.com/search?q=New+Century+Ophthalmology+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-12 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2026-08-12 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`[DISCLOSED]Accelerated Services`](https://google.com/search?q=%5BDISCLOSED%5DAccelerated+Services) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2026-08-11 | [`[DISCLOSED]Bioptik Technology`](https://google.com/search?q=%5BDISCLOSED%5DBioptik+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
