@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-03 | [`Multiver Ltée`](https://google.com/search?q=Multiver+Lt%C3%A9e) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Metales Panamericanos`](https://google.com/search?q=Metales+Panamericanos) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Asfaltos y Pavimentos S.A. (Asfalpasa)`](https://google.com/search?q=Asfaltos+y+Pavimentos+S.A.+%28Asfalpasa%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`[EVIDENCE]REXT Holdings Co., Ltd.`](https://google.com/search?q=%5BEVIDENCE%5DREXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-12 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`new blog domain lockbit 5.0`](https://google.com/search?q=new+blog+domain+lockbit+5.0) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2026-08-12 | [`Neinver`](https://google.com/search?q=Neinver) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
