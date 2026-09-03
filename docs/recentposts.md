@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-03 | [`Trucka`](https://google.com/search?q=Trucka) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`Policlinico Triestino`](https://google.com/search?q=Policlinico+Triestino) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`Multiver Ltée`](https://google.com/search?q=Multiver+Lt%C3%A9e) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-02 | [`Metales Panamericanos`](https://google.com/search?q=Metales+Panamericanos) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-12 | [`GCATS Investments`](https://google.com/search?q=GCATS+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`[DISCLOSED]City of Beacon`](https://google.com/search?q=%5BDISCLOSED%5DCity+of+Beacon) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-12 | [`First Tek`](https://google.com/search?q=First+Tek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-12 | [`Cambridge Management`](https://google.com/search?q=Cambridge+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
