@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-04 | [`www.renorefractories.com`](https://google.com/search?q=www.renorefractories.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-04 | [`www.lichtvision.com`](https://google.com/search?q=www.lichtvision.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-04 | [`specialtytextile.com`](https://google.com/search?q=specialtytextile.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-03 | [`myglobal.com`](https://google.com/search?q=myglobal.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-13 | [`Rilpa Enterprises`](https://google.com/search?q=Rilpa+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Preferred Financial Group`](https://google.com/search?q=Preferred+Financial+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-12 | [`Platinum Group`](https://google.com/search?q=Platinum+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-12 | [`Marconi Industrial Services`](https://google.com/search?q=Marconi+Industrial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
