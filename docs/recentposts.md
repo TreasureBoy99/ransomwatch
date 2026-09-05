@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-05 | [`D-MAX Engineering, Inc`](https://google.com/search?q=D-MAX+Engineering%2C+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`Sports Endeavors`](https://google.com/search?q=Sports+Endeavors) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-04 | [`zummocorp.com`](https://google.com/search?q=zummocorp.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-04 | [`www.renorefractories.com`](https://google.com/search?q=www.renorefractories.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-13 | [`The Butcher Brothers`](https://google.com/search?q=The+Butcher+Brothers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-13 | [`Signature Services`](https://google.com/search?q=Signature+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-13 | [`Sigma Plastics Group`](https://google.com/search?q=Sigma+Plastics+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-13 | [`Rilpa Enterprises`](https://google.com/search?q=Rilpa+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
