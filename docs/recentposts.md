@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-06 | [` Walters Group Inc `](https://google.com/search?q=+Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Whitfield Welding Inc `](https://google.com/search?q=+Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Durashiloh `](https://google.com/search?q=+Durashiloh+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Connor Co `](https://google.com/search?q=+Connor+Co+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-14 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-14 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2026-08-13 | [`optimumdesign.com`](https://google.com/search?q=optimumdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2026-08-13 | [`[DISCLOSED]TECHVENTURES BANK S.A.`](https://google.com/search?q=%5BDISCLOSED%5DTECHVENTURES+BANK+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
