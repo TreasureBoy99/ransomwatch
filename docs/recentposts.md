@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-07 | [`DeWalch Technologies, Inc`](https://google.com/search?q=DeWalch+Technologies%2C+Inc) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Golden Artist Colors `](https://google.com/search?q=+Golden+Artist+Colors+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Walters Group Inc `](https://google.com/search?q=+Walters+Group+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-06 | [` Whitfield Welding Inc `](https://google.com/search?q=+Whitfield+Welding+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-14 | [`[DISCLOSED]PCL Holding`](https://google.com/search?q=%5BDISCLOSED%5DPCL+Holding) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-08-14 | [`Yourway Transportation`](https://google.com/search?q=Yourway+Transportation) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-08-14 | [`hptc.org`](https://google.com/search?q=hptc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2026-08-14 | [`moinian.com`](https://google.com/search?q=moinian.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
