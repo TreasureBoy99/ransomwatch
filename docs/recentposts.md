@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-10 | [` Coweta County School System `](https://google.com/search?q=+Coweta+County+School+System+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-09 | [` Kirkor Architects and Planners `](https://google.com/search?q=+Kirkor+Architects+and+Planners+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2026-09-09 | [`cullottalaw.com`](https://google.com/search?q=cullottalaw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-09 | [`https://mediengruppethiel.de/`](https://google.com/search?q=https%3A%2F%2Fmediengruppethiel.de%2F) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-15 | [`MACT Health Board`](https://google.com/search?q=MACT+Health+Board) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Elabs`](https://google.com/search?q=Elabs) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-15 | [`Lakeside Union School District`](https://google.com/search?q=Lakeside+Union+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-15 | [`AGS`](https://google.com/search?q=AGS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
