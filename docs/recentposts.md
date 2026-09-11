@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-11 | [`General Santos Doctors Hospital`](https://google.com/search?q=General+Santos+Doctors+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-11 | [`Professional Retail Services`](https://google.com/search?q=Professional+Retail+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-11 | [`Sys-kool`](https://google.com/search?q=Sys-kool) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-10 | [`Grunthal Welding & Supplies`](https://google.com/search?q=Grunthal+Welding+%26+Supplies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-16 | [`Harbour Town Doctors`](https://google.com/search?q=Harbour+Town+Doctors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`United Keetoowah Band of Cherokee Indians in Oklahoma`](https://google.com/search?q=United+Keetoowah+Band+of+Cherokee+Indians+in+Oklahoma) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`YOKOSUKA GAKUIN`](https://google.com/search?q=YOKOSUKA+GAKUIN) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-16 | [`Larry Pitt & Associates`](https://google.com/search?q=Larry+Pitt+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
