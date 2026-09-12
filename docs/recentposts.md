@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-12 | [`dpwh.gov.ph`](https://google.com/search?q=dpwh.gov.ph) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-12 | [`Axdia International`](https://google.com/search?q=Axdia+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-12 | [`doghairinc.com`](https://google.com/search?q=doghairinc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-12 | [`dgcement.com`](https://google.com/search?q=dgcement.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-16 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Bo Beuckman Ford`](https://google.com/search?q=Bo+Beuckman+Ford) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-16 | [`SODISE`](https://google.com/search?q=SODISE) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
