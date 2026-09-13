@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-13 | [`egov.sc`](https://google.com/search?q=egov.sc) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-12 | [`dunav.com`](https://google.com/search?q=dunav.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-12 | [`dpwh.gov.ph`](https://google.com/search?q=dpwh.gov.ph) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-12 | [`Axdia International`](https://google.com/search?q=Axdia+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-16 | [`Wachusett School District MA`](https://google.com/search?q=Wachusett+School+District+MA) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`St. Joseph's Healthcare Hamilton`](https://google.com/search?q=St.+Joseph%27s+Healthcare+Hamilton) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-16 | [`Collge Superieur De Montreal`](https://google.com/search?q=Collge+Superieur+De+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-16 | [`Marlex Human Capital`](https://google.com/search?q=Marlex+Human+Capital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
