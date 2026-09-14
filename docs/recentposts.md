@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-14 | [`grupo-principal.com`](https://google.com/search?q=grupo-principal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-13 | [`gov.br`](https://google.com/search?q=gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-13 | [`gedco.ps`](https://google.com/search?q=gedco.ps) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-13 | [`flazio.com`](https://google.com/search?q=flazio.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-17 | [`KISS FM`](https://google.com/search?q=KISS+FM) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Invacare`](https://google.com/search?q=Invacare) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`LMHT Associates`](https://google.com/search?q=LMHT+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-17 | [`Heart South Cardiovascular Group`](https://google.com/search?q=Heart+South+Cardiovascular+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
