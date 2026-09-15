@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-15 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-14 | [`hl.co.uk`](https://google.com/search?q=hl.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-14 | [`haca.ma`](https://google.com/search?q=haca.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-14 | [`grupopetersen.com.ar`](https://google.com/search?q=grupopetersen.com.ar) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-17 | [`Bellflower Unified School District`](https://google.com/search?q=Bellflower+Unified+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Gemini Group`](https://google.com/search?q=Gemini+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-17 | [`Spindletop Center`](https://google.com/search?q=Spindletop+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-17 | [`Automated Logistics Systems`](https://google.com/search?q=Automated+Logistics+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
