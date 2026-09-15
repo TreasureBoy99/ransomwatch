@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-15 | [`[DISCLOSED] California School Employees Association`](https://google.com/search?q=%5BDISCLOSED%5D+California+School+Employees+Association) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-15 | [`ifmis.go.ke`](https://google.com/search?q=ifmis.go.ke) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-15 | [`iam.ma`](https://google.com/search?q=iam.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-15 | [`holidaypalace.com`](https://google.com/search?q=holidaypalace.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-17 | [`Sam Pack Auto Group`](https://google.com/search?q=Sam+Pack+Auto+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Bridgeport Capital Services`](https://google.com/search?q=Bridgeport+Capital+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-17 | [`Abilene Family Medical Associates`](https://google.com/search?q=Abilene+Family+Medical+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-17 | [`Bellflower Unified School District`](https://google.com/search?q=Bellflower+Unified+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
