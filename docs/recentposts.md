@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-16 | [`mahidol.ac.th`](https://google.com/search?q=mahidol.ac.th) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-16 | [`Namibian Defence Force`](https://google.com/search?q=Namibian+Defence+Force) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-16 | [`kliknklik.com`](https://google.com/search?q=kliknklik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-16 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-18 | [`Tex-Tube`](https://google.com/search?q=Tex-Tube) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Sibbalds`](https://google.com/search?q=Sibbalds) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`GEIGER`](https://google.com/search?q=GEIGER) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-18 | [`Hematology Oncology Consultants`](https://google.com/search?q=Hematology+Oncology+Consultants) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
