@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-16 | [`jgpetrucci.com`](https://google.com/search?q=jgpetrucci.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-16 | [`isosl.be`](https://google.com/search?q=isosl.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-15 | [`ires.ma`](https://google.com/search?q=ires.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-15 | [`[DISCLOSED] California School Employees Association`](https://google.com/search?q=%5BDISCLOSED%5D+California+School+Employees+Association) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-18 | [`Hematology Oncology Consultants`](https://google.com/search?q=Hematology+Oncology+Consultants) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Peraso`](https://google.com/search?q=Peraso) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Woodhaven Association`](https://google.com/search?q=Woodhaven+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-17 | [`Sam Pack Auto Group`](https://google.com/search?q=Sam+Pack+Auto+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
