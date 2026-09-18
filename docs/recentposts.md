@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-18 | [`Pertamina`](https://google.com/search?q=Pertamina) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-17 | [`www.diarco.com.ar`](https://google.com/search?q=www.diarco.com.ar) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-17 | [`Silicon Integrated Systems`](https://google.com/search?q=Silicon+Integrated+Systems) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-17 | [`www.appliancefactory.com`](https://google.com/search?q=www.appliancefactory.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-18 | [`JASCO Applied Sciences`](https://google.com/search?q=JASCO+Applied+Sciences) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Sdii Global`](https://google.com/search?q=Sdii+Global) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-18 | [`Coltrane Systems`](https://google.com/search?q=Coltrane+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-18 | [`[DISCLOSED]Alya Construtora`](https://google.com/search?q=%5BDISCLOSED%5DAlya+Construtora) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
