@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-19 | [`Vista Plastic Solutions`](https://google.com/search?q=Vista+Plastic+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-19 | [`Inglewood Golf`](https://google.com/search?q=Inglewood+Golf) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`Barrett Mahony Consulting Engineers`](https://google.com/search?q=Barrett+Mahony+Consulting+Engineers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-18 | [`MPA Pharma`](https://google.com/search?q=MPA+Pharma) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-19 | [`Firelands Scientific`](https://google.com/search?q=Firelands+Scientific) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-19 | [`Elite Trailers`](https://google.com/search?q=Elite+Trailers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-19 | [`Coastal Pacific Xpress`](https://google.com/search?q=Coastal+Pacific+Xpress) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-19 | [`The Maryland Department of Transportation`](https://google.com/search?q=The+Maryland+Department+of+Transportation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
