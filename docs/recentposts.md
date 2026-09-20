@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-20 | [`novoair-bd.com`](https://google.com/search?q=novoair-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-20 | [`narit.or.th`](https://google.com/search?q=narit.or.th) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-20 | [`moccae.gov.ae`](https://google.com/search?q=moccae.gov.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-19 | [`www.roancampingholidays.com`](https://google.com/search?q=www.roancampingholidays.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-20 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-19 | [`First Baptist Church of Hammond`](https://google.com/search?q=First+Baptist+Church+of+Hammond) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-19 | [`Cookeville Regional Medical Center`](https://google.com/search?q=Cookeville+Regional+Medical+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-19 | [`Alascom`](https://google.com/search?q=Alascom) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
