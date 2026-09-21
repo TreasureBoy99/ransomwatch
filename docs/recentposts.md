@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-21 | [`U.S. Electrical Services and Wiedenbach Brown`](https://google.com/search?q=U.S.+Electrical+Services+and+Wiedenbach+Brown) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-09-21 | [`SECOND HOUSE`](https://google.com/search?q=SECOND+HOUSE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-21 | [`Maryann Kriger`](https://google.com/search?q=Maryann+Kriger) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-20 | [`phb.com`](https://google.com/search?q=phb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-20 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`BANGKOKCABLE`](https://google.com/search?q=BANGKOKCABLE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Coreix`](https://google.com/search?q=Coreix) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-20 | [`Welthungerhilfe`](https://google.com/search?q=Welthungerhilfe) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
