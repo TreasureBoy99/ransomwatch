@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-22 | [`Metallco`](https://google.com/search?q=Metallco) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-21 | [`Hurley`](https://google.com/search?q=Hurley) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-21 | [`U.S. Electrical Services and Wiedenbach Brown`](https://google.com/search?q=U.S.+Electrical+Services+and+Wiedenbach+Brown) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2026-09-21 | [`SECOND HOUSE`](https://google.com/search?q=SECOND+HOUSE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-20 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`CUSTOMSIGN`](https://google.com/search?q=CUSTOMSIGN) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`CDGARVINLAW`](https://google.com/search?q=CDGARVINLAW) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-20 | [`BANGKOKCABLE`](https://google.com/search?q=BANGKOKCABLE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
