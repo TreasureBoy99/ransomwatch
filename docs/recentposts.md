@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-22 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-22 | [`ritavo.com`](https://google.com/search?q=ritavo.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-22 | [`providentgh.com`](https://google.com/search?q=providentgh.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-22 | [`Metallco`](https://google.com/search?q=Metallco) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Be Media`](https://google.com/search?q=Be+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-20 | [`Foresee Pharmaceuticals`](https://google.com/search?q=Foresee+Pharmaceuticals) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-20 | [`EXEL`](https://google.com/search?q=EXEL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
