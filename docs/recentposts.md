@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-23 | [`smarty.arpinet.am`](https://google.com/search?q=smarty.arpinet.am) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-23 | [`shj.ae`](https://google.com/search?q=shj.ae) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-22 | [`seit.cl`](https://google.com/search?q=seit.cl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-22 | [`ritavo.com`](https://google.com/search?q=ritavo.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-21 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Otter Tail County, Minnesota`](https://google.com/search?q=Otter+Tail+County%2C+Minnesota) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-20 | [`Latoplast`](https://google.com/search?q=Latoplast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-20 | [`Be Media`](https://google.com/search?q=Be+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
