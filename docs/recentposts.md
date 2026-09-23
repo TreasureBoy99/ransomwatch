@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-23 | [`Legis`](https://google.com/search?q=Legis) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-23 | [`Tomix / Grupo JOPER`](https://google.com/search?q=Tomix+%2F+Grupo+JOPER) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-09-23 | [`Lemon Law`](https://google.com/search?q=Lemon+Law) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-23 | [`smarty.arpinet.am`](https://google.com/search?q=smarty.arpinet.am) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-21 | [`cambrialawfirm.com`](https://google.com/search?q=cambrialawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`UNIPLASTICS.COM`](https://google.com/search?q=UNIPLASTICS.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`SpearFin Ltd`](https://google.com/search?q=SpearFin+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-21 | [`SD Associates Sdn Bhd`](https://google.com/search?q=SD+Associates+Sdn+Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
