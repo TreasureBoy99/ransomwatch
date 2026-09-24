@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-24 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-24 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-23 | [`Legis`](https://google.com/search?q=Legis) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-23 | [`Tomix / Grupo JOPER`](https://google.com/search?q=Tomix+%2F+Grupo+JOPER) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-21 | [`Battle Creek Public Schools`](https://google.com/search?q=Battle+Creek+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-21 | [`cambrialawfirm.com`](https://google.com/search?q=cambrialawfirm.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-21 | [`UNIPLASTICS.COM`](https://google.com/search?q=UNIPLASTICS.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
