@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-24 | [`NEAD Pro`](https://google.com/search?q=NEAD+Pro) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-24 | [`Grupo Caberj`](https://google.com/search?q=Grupo+Caberj) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-24 | [`tni.mil.id`](https://google.com/search?q=tni.mil.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-24 | [`tkgm.gov.tr`](https://google.com/search?q=tkgm.gov.tr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-21 | [`Fairview Dental Group`](https://google.com/search?q=Fairview+Dental+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Coming soon`](https://google.com/search?q=Coming+soon) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-21 | [`Battle Creek Public Schools`](https://google.com/search?q=Battle+Creek+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-21 | [`clgroup`](https://google.com/search?q=clgroup) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
