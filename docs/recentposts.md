@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-26 | [`viennaairport.com (SOLD TO 3RD PARTY)`](https://google.com/search?q=viennaairport.com+%28SOLD+TO+3RD+PARTY%29) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-26 | [`vicentetrapani.com`](https://google.com/search?q=vicentetrapani.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-26 | [`vanheyghenstaal.be`](https://google.com/search?q=vanheyghenstaal.be) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-26 | [`ungererandcompany.com`](https://google.com/search?q=ungererandcompany.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-22 | [`www.automotiveml.com`](https://google.com/search?q=www.automotiveml.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`CRI Electric`](https://google.com/search?q=CRI+Electric) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-08-22 | [`https://www.bew.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.bew.co.th) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-08-22 | [`https://www.pyramisgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.pyramisgroup.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
