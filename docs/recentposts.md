@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-28 | [`nsbsd.org`](https://google.com/search?q=nsbsd.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-28 | [`AHEAD`](https://google.com/search?q=AHEAD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-27 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-09-26 | [`westernint.com`](https://google.com/search?q=westernint.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-22 | [`BEDC.COM.AU`](https://google.com/search?q=BEDC.COM.AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-22 | [`www.myriversidedentaloffice.com`](https://google.com/search?q=www.myriversidedentaloffice.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`www.verdugohillsdental.com`](https://google.com/search?q=www.verdugohillsdental.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-08-22 | [`https://www.unterkofler.info`](https://google.com/search?q=https%3A%2F%2Fwww.unterkofler.info) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
