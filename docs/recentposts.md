@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-28 | [`Ever Ready First Aid`](https://google.com/search?q=Ever+Ready+First+Aid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-28 | [`nsbsd.org`](https://google.com/search?q=nsbsd.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-28 | [`AHEAD`](https://google.com/search?q=AHEAD) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-27 | [`whessoe.com.my`](https://google.com/search?q=whessoe.com.my) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-22 | [`www.mercantetubos.com.br`](https://google.com/search?q=www.mercantetubos.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`BEDC.COM.AU`](https://google.com/search?q=BEDC.COM.AU) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-22 | [`www.myriversidedentaloffice.com`](https://google.com/search?q=www.myriversidedentaloffice.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-08-22 | [`www.verdugohillsdental.com`](https://google.com/search?q=www.verdugohillsdental.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
