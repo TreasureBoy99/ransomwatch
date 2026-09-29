@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-09-29 | [`bcx.co.za`](https://google.com/search?q=bcx.co.za) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-29 | [`bakemyday.se`](https://google.com/search?q=bakemyday.se) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-09-29 | [`Starr Whitehouse Landscape Architects`](https://google.com/search?q=Starr+Whitehouse+Landscape+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-28 | [`Ever Ready First Aid`](https://google.com/search?q=Ever+Ready+First+Aid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-23 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2026-08-22 | [`el-group`](https://google.com/search?q=el-group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-22 | [`https://www.libertydentaltown.com`](https://google.com/search?q=https%3A%2F%2Fwww.libertydentaltown.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-08-22 | [`www.mercantetubos.com.br`](https://google.com/search?q=www.mercantetubos.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
