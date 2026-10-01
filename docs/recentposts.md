@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-01 | [`Law Offices of R. David Williams, P.A.`](https://google.com/search?q=Law+Offices+of+R.+David+Williams%2C+P.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-01 | [`Titus`](https://google.com/search?q=Titus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-01 | [`Orth Automobile`](https://google.com/search?q=Orth+Automobile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-30 | [`Airtech Mechanical Services`](https://google.com/search?q=Airtech+Mechanical+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-23 | [`Freelom`](https://google.com/search?q=Freelom) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-08-23 | [`bluebellgroup.com`](https://google.com/search?q=bluebellgroup.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2026-08-23 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
