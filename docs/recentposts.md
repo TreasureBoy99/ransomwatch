@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-01 | [`Orth Automobile`](https://google.com/search?q=Orth+Automobile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-30 | [`Airtech Mechanical Services`](https://google.com/search?q=Airtech+Mechanical+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-09-30 | [`clicks digital GmbH Information`](https://google.com/search?q=clicks+digital+GmbH+Information) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-09-29 | [`bcx.co.za`](https://google.com/search?q=bcx.co.za) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-23 | [`bluebellgroup.com`](https://google.com/search?q=bluebellgroup.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2026-08-23 | [`GMORS Co., Ltd`](https://google.com/search?q=GMORS+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2026-08-23 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2026-08-23 | [`www.sonoshowmoveis.com.br`](https://google.com/search?q=www.sonoshowmoveis.com.br) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
