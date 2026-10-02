@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-02 | [`Guardian Pharmacy LLC`](https://google.com/search?q=Guardian+Pharmacy+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-02 | [`Den Hartog Industries`](https://google.com/search?q=Den+Hartog+Industries) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-02 | [`Hospital Hermilio Valdizán`](https://google.com/search?q=Hospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-01 | [`Terca`](https://google.com/search?q=Terca) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-23 | [`Basso Fedele &amp; Figli S.r.l. (Olio Basso)    /     Villa Raiano`](https://google.com/search?q=Basso+Fedele+%26amp%3B+Figli+S.r.l.+%28Olio+Basso%29++++%2F+++++Villa+Raiano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`BiesSse Group`](https://google.com/search?q=BiesSse+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`SEARS (Grupo Sanborns)`](https://google.com/search?q=SEARS+%28Grupo+Sanborns%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-23 | [`holzmarkt chemnitz`](https://google.com/search?q=holzmarkt+chemnitz) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
