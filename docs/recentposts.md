@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-02 | [`Hospital Hermilio Valdizán`](https://google.com/search?q=Hospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-01 | [`Terca`](https://google.com/search?q=Terca) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-01 | [`Law Offices of R. David Williams, P.A.`](https://google.com/search?q=Law+Offices+of+R.+David+Williams%2C+P.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-01 | [`Titus`](https://google.com/search?q=Titus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-23 | [`SEARS (Grupo Sanborns)`](https://google.com/search?q=SEARS+%28Grupo+Sanborns%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`holzmarkt chemnitz`](https://google.com/search?q=holzmarkt+chemnitz) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`Freelom`](https://google.com/search?q=Freelom) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-23 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
