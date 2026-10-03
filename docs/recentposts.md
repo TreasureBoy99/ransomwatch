@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-03 | [`PT Indo Tambangraya Megah`](https://google.com/search?q=PT+Indo+Tambangraya+Megah) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-03 | [`Northern Counties Health Care`](https://google.com/search?q=Northern+Counties+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-03 | [`Electro Heat Sweden AB`](https://google.com/search?q=Electro+Heat+Sweden+AB) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-02 | [`Mat Bao Corporation`](https://google.com/search?q=Mat+Bao+Corporation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-24 | [`Anpra SAS`](https://google.com/search?q=Anpra+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`PontoBR Sistemas`](https://google.com/search?q=PontoBR+Sistemas) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-23 | [`Hitech Distribuzione Informatica S.r.l. (HTDI)`](https://google.com/search?q=Hitech+Distribuzione+Informatica+S.r.l.+%28HTDI%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-23 | [`Elixi International SA`](https://google.com/search?q=Elixi+International+SA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
