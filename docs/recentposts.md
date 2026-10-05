@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-05 | [`Silicon Valley Glass`](https://google.com/search?q=Silicon+Valley+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-04 | [`Bold Spring Nursery`](https://google.com/search?q=Bold+Spring+Nursery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-03 | [`Rimrock Foundation`](https://google.com/search?q=Rimrock+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-03 | [`Post Metal Recycling`](https://google.com/search?q=Post+Metal+Recycling) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-24 | [`Blenheim`](https://google.com/search?q=Blenheim) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Turbosoft`](https://google.com/search?q=Turbosoft) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Techpol-System`](https://google.com/search?q=Techpol-System) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-24 | [`FITcrunch`](https://google.com/search?q=FITcrunch) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
