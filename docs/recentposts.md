@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-07 | [`architekt-vondanwitz.de`](https://google.com/search?q=architekt-vondanwitz.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-07 | [`acmestamping.com`](https://google.com/search?q=acmestamping.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-06 | [`magnals.com`](https://google.com/search?q=magnals.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-05 | [`Sangre de Cristo Electric Association`](https://google.com/search?q=Sangre+de+Cristo+Electric+Association) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-24 | [`ECOVACS`](https://google.com/search?q=ECOVACS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Gerencial`](https://google.com/search?q=Gerencial) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-24 | [`Chebib Control`](https://google.com/search?q=Chebib+Control) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-24 | [`Salters propane`](https://google.com/search?q=Salters+propane) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
