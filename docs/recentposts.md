@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-08 | [`UAE Pro League`](https://google.com/search?q=UAE+Pro+League) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`The New Community School`](https://google.com/search?q=The+New+Community+School) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`Tec Imports`](https://google.com/search?q=Tec+Imports) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-07 | [`City of Cloverdale`](https://google.com/search?q=City+of+Cloverdale) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-25 | [`Stellar`](https://google.com/search?q=Stellar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Sicol`](https://google.com/search?q=Sicol) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-24 | [`Cattani`](https://google.com/search?q=Cattani) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
