@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-08 | [`Wavecrest HFA`](https://google.com/search?q=Wavecrest+HFA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`UAE Pro League`](https://google.com/search?q=UAE+Pro+League) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`The New Community School`](https://google.com/search?q=The+New+Community+School) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-08 | [`Tec Imports`](https://google.com/search?q=Tec+Imports) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-25 | [`TRULITE GLASS & ALUMINUM SOLUTIONS`](https://google.com/search?q=TRULITE+GLASS+%26+ALUMINUM+SOLUTIONS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-25 | [`Stellar`](https://google.com/search?q=Stellar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`Geske Haus- und Versorgungstechnik GmbH`](https://google.com/search?q=Geske+Haus-+und+Versorgungstechnik+GmbH) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-25 | [`Sicol`](https://google.com/search?q=Sicol) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
