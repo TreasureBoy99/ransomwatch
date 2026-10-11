@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-11 | [`hsc.mb.ca`](https://google.com/search?q=hsc.mb.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-10 | [`Gress Clark Young & Schoepper`](https://google.com/search?q=Gress+Clark+Young+%26+Schoepper) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-09 | [`Anne Arundel County`](https://google.com/search?q=Anne+Arundel+County) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-09 | [`RealManage`](https://google.com/search?q=RealManage) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-25 | [`Erla Technologies SAS`](https://google.com/search?q=Erla+Technologies+SAS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`SmilePoint Dental Group`](https://google.com/search?q=SmilePoint+Dental+Group) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-08-25 | [`BASE SPA`](https://google.com/search?q=BASE+SPA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2026-08-25 | [`Filabé`](https://google.com/search?q=Filab%C3%A9) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
