@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-14 | [`Culinary Specialties`](https://google.com/search?q=Culinary+Specialties) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-14 | [`[DISCLOSED]Terca`](https://google.com/search?q=%5BDISCLOSED%5DTerca) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-13 | [`[DISCLOSED]Hospital Hermilio Valdizán`](https://google.com/search?q=%5BDISCLOSED%5DHospital+Hermilio+Valdiz%C3%A1n) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-10-13 | [`Excess Baggage`](https://google.com/search?q=Excess+Baggage) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-26 | [`alkaloid.com.mk`](https://google.com/search?q=alkaloid.com.mk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`algosaibi-gtb.com`](https://google.com/search?q=algosaibi-gtb.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`2m.ma`](https://google.com/search?q=2m.ma) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-08-26 | [`Johnson &amp; Johnson Innovative Medicine`](https://google.com/search?q=Johnson+%26amp%3B+Johnson+Innovative+Medicine) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
