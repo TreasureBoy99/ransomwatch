@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-15 | [`Great Lakes`](https://google.com/search?q=Great+Lakes) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`FINANCIAMENTO LTDA`](https://google.com/search?q=FINANCIAMENTO+LTDA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`The Innovation Group`](https://google.com/search?q=The+Innovation+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-14 | [`Saddlers Court MFG`](https://google.com/search?q=Saddlers+Court+MFG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-26 | [`asunim.co`](https://google.com/search?q=asunim.co) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`arrawdah.org.sa`](https://google.com/search?q=arrawdah.org.sa) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-26 | [`amtaar.com`](https://google.com/search?q=amtaar.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-08-26 | [`alx-pc.com`](https://google.com/search?q=alx-pc.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
