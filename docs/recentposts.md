@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-16 | [`nowaszkola.com`](https://google.com/search?q=nowaszkola.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`fairfeelegalservices.com`](https://google.com/search?q=fairfeelegalservices.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-15 | [`Alma Center Servizi Medicali S.r.l.`](https://google.com/search?q=Alma+Center+Servizi+Medicali+S.r.l.) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-15 | [`Wolf & Sofsky GmbH`](https://google.com/search?q=Wolf+%26+Sofsky+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-28 | [`BENCIVIL`](https://google.com/search?q=BENCIVIL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-27 | [`Rohloff Group`](https://google.com/search?q=Rohloff+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-27 | [`azarestan.com`](https://google.com/search?q=azarestan.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-08-26 | [`aydeniz.com`](https://google.com/search?q=aydeniz.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
