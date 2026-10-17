@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-17 | [`Pure Options`](https://google.com/search?q=Pure+Options) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`New Tec Tool Limited`](https://google.com/search?q=New+Tec+Tool+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`MicroSearch Corporation`](https://google.com/search?q=MicroSearch+Corporation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`www.coopecaja.fi.cr`](https://google.com/search?q=www.coopecaja.fi.cr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-29 | [`PARTNERED HEALTH GROUP`](https://google.com/search?q=PARTNERED+HEALTH+GROUP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`Berlin, Germany`](https://google.com/search?q=Berlin%2C+Germany) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2026-08-29 | [`Valley Health Team`](https://google.com/search?q=Valley+Health+Team) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
