@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-17 | [`Holistic Health Group, Inc. (d/b/a Suncrafted)`](https://google.com/search?q=Holistic+Health+Group%2C+Inc.+%28d%2Fb%2Fa+Suncrafted%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-17 | [`WSBI-ESBG`](https://google.com/search?q=WSBI-ESBG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-17 | [`Pure Options`](https://google.com/search?q=Pure+Options) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-10-16 | [`New Tec Tool Limited`](https://google.com/search?q=New+Tec+Tool+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-30 | [`wittmann`](https://google.com/search?q=wittmann) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-30 | [`Ruby Seven Studios`](https://google.com/search?q=Ruby+Seven+Studios) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-08-29 | [`PARTNERED HEALTH GROUP`](https://google.com/search?q=PARTNERED+HEALTH+GROUP) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2026-08-29 | [`Oilquip Inc`](https://google.com/search?q=Oilquip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
