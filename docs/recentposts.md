@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-22 | [`SGLA (Schwartz, Giannini, Lantsberger &amp; Adamson)`](https://google.com/search?q=SGLA+%28Schwartz%2C+Giannini%2C+Lantsberger+%26amp%3B+Adamson%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2026-10-21 | [`centralrogers.com`](https://google.com/search?q=centralrogers.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-19 | [`Seetelhotels.de`](https://google.com/search?q=Seetelhotels.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2026-10-17 | [`Holistic Health Group, Inc. (d/b/a Suncrafted)`](https://google.com/search?q=Holistic+Health+Group%2C+Inc.+%28d%2Fb%2Fa+Suncrafted%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-08-31 | [`bg.ac.rs`](https://google.com/search?q=bg.ac.rs) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-30 | [`bankasia-bd.com`](https://google.com/search?q=bankasia-bd.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2026-08-30 | [`banak.com`](https://google.com/search?q=banak.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2026-08-30 | [`wittmann`](https://google.com/search?q=wittmann) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
