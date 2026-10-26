@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2026-10-26 | [`MISC Group`](https://google.com/search?q=MISC+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-23 | [`Sanders Law Group`](https://google.com/search?q=Sanders+Law+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-23 | [`Line2Line Coatings`](https://google.com/search?q=Line2Line+Coatings) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2026-10-22 | [`bereskinparr.com smartbiggar.ca`](https://google.com/search?q=bereskinparr.com+smartbiggar.ca) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2026-09-01 | [`REXT Holdings Co., Ltd.`](https://google.com/search?q=REXT+Holdings+Co.%2C+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2026-09-01 | [`MEQ`](https://google.com/search?q=MEQ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2026-08-31 | [`KRC Machine Tool Solutions`](https://google.com/search?q=KRC+Machine+Tool+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2026-08-31 | [`Figgins Family Wine Estates`](https://google.com/search?q=Figgins+Family+Wine+Estates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
